@@ -4,6 +4,9 @@ SingleCycleCPU.hw/
 SingleCycleCPU.runs/
 SingleCycleCPU.sim/
 
+# 保留位流文件
+!SingleCycleCPU.runs\impl_1\sccomp.bit
+
 # Vivado 项目文件 - 包含本地路径和设置
 SingleCycleCPU.xpr
 
