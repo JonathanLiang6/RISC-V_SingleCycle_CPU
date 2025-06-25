@@ -1,0 +1,38 @@
+# Vivado 生成的文件和目录
+SingleCycleCPU.cache/
+SingleCycleCPU.hw/
+SingleCycleCPU.runs/
+SingleCycleCPU.sim/
+
+# Vivado 项目文件 - 包含本地路径和设置
+SingleCycleCPU.xpr
+
+# Vivado 日志和 journal 文件
+vivado.log
+vivado.jou
+
+# 忽略生成的 IP 文件，但保留内存初始化文件。
+# 这允许在保留必要源数据的同时重建项目。
+SingleCycleCPU.ip_user_files/ip/
+SingleCycleCPU.ip_user_files/ipstatic/
+SingleCycleCPU.ip_user_files/sim_scripts/
+SingleCycleCPU.ip_user_files/README.txt
+
+# WebTalk 分析文件
+webtalk*.xml
+webtalk*.html
+usage_statistics_webtalk.xml
+usage_statistics_webtalk.html
+
+# 其他由实现/综合运行生成的文件
+*.bit
+*.dcp
+*.ltx
+*.pb
+*.rpt
+*.tcl
+*.vdi
+*.vds
+*.wdf
+*.wpc
+*.lpr 
